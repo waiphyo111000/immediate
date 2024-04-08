@@ -1,0 +1,1 @@
+print("Both are in UCSMGY")
